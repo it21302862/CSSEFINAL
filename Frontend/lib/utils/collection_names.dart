@@ -1,0 +1,9 @@
+const String requestCollection = 'csse_requests';
+const String siteCollection = 'sitesCollection';
+const String usersCollection = 'users';
+const String paymentsCollection = 'csse_payments';
+const String deliveryCollection = 'csse_deliveries';
+const String budgetCollection = 'budgetsCollection';
+const String itemsCollection = 'items';
+const String supplierCollection = 'supplierCollection';
+const String orderCollection = 'orderCollection';
