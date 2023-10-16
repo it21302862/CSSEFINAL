@@ -18,7 +18,7 @@ app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerSpecs));
 
 // Connect to MongoDB
 mongoose.connect(
-  "mongodb+srv://itpprojectdb:Pass123itp@itp.jet5d6f.mongodb.net/test",
+  "mongodb+srv://itpprojectdb:Pass123itp@itp.jet5d6f.mongodb.net/CSSE",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
